@@ -119,6 +119,9 @@ Overall, the project provides practical experience in data analysis and helps or
 - Learned how to explore and compare student performance data.
 - Gained experience in creating graphs and interpreting data.
 
-## 10. Conclusion
+## 10. GitHub Repository
 
-This project provides an opportunity to explore student academic data and practice data analysis using Python. The final conclusions depend on the analysis and visualizations produced by the notebook.
+The complete source code, dataset, project documentation, and output screenshots are available on GitHub.
+
+**GitHub Repository Link:**  
+https://github.com/Dhananjay-codes/Student_Performance_Analysis
